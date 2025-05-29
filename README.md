@@ -1,7 +1,3 @@
-Here’s a **simplified, non-technical README** for **ORESS**, focusing purely on what it does and how it helps students — no file structure, code, or setup instructions:
-
----
-
 # ORESS – Online Registration and Enrollment Scheduling System
 
 *(Link coming soon)*
@@ -13,8 +9,8 @@ Here’s a **simplified, non-technical README** for **ORESS**, focusing purely o
 ## 🚀 What ORESS Does
 
 * **Build Your Schedule Easily**
-  Drag-and-drop courses into an interactive timetable that updates in real time.
-
+  Select courses to add easily to your timetable.
+  
 * **Search Smarter**
   Look up courses by name, code, or instructor with a fast, responsive search.
 
@@ -27,6 +23,12 @@ Here’s a **simplified, non-technical README** for **ORESS**, focusing purely o
 * **Take It With You**
   Export your completed schedule as a PDF — perfect for printing or sharing.
 
+* **Share and Compare**
+  With the .ors extension it is easier than ever to share and compare timetables with peers.
+
+* **Virtual Advisor**
+  Use our trained ai assistant to build the best schedule for you.
+
 ---
 
 ## 🎯 Why Use ORESS?
@@ -35,10 +37,8 @@ University registration systems are often clunky and confusing. ORESS changes th
 
 ---
 
-## 📬 Stay Updated
+## ❤ Thank you
 
-The public link will be available soon. For updates, feedback, or support, reach out to **[your-email@example.com](mailto:your-email@example.com)**.
+Made with ❤ by students, for students. 
 
----
 
-Let me know if you want a version tailored for a landing page, school demo, or investor deck.
