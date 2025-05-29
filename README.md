@@ -40,5 +40,6 @@ University registration systems are often clunky and confusing. ORESS changes th
 ## ❤ Thank you
 
 Made with ❤ by students, for students. 
+Brought to you by axorix.
 
 
